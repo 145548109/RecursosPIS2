@@ -49,3 +49,12 @@ Programación Orientada a Objetos: Mostrar un diagrama de clases que pueda ser p
 Diseño de Circuitos: Presentar un hardware atractivo y funcional, que pueda ser controlado perfectamente por el operador(nosotros).<br>
 Teoría de la distribución y la probabilidad: Calcular la media de objetos recogidos y depositados en el contenedor. <br>
 </details>
+
+
+///
+HISTORIA DE USO.
+
+Como estudiantes de la UNL desarrollaremos esta segunda version del brazo robotico para aportar a la sostenibilidad en la sociedad. Por ende nuestro equipo debio comprender la problematica y con ello plantearnos que recursos usar. Comprendimos como podria aportar a la sociedad lojana y cómo se siente.
+
+Queremos aportar a la sostenibilidad del medio ambiente con una segunda versión de nuestro brazo robotico. Nuestras intenciones son mejorar el funcionamiento del mismo, facilitando el control del mismo, a quien lo maneje.
+//
