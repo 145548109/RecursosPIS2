@@ -58,3 +58,40 @@ Como estudiantes de la UNL desarrollaremos esta segunda version del brazo roboti
 
 Queremos aportar a la sostenibilidad del medio ambiente con una segunda versión de nuestro brazo robotico. Nuestras intenciones son mejorar el funcionamiento del mismo, facilitando el control del mismo, a quien lo maneje.
 //
+## Actividades
+
+1. Desarrollo del Código:
+
+Implementar el código fuente de las clases base para la gestión del brazo robótico.
+
+Asegurar la correcta integración de los principios de POO.
+
+2. Diseño y Publicación de la Página Web:
+
+Crear y publicar una página web utilizando GitHub Pages.
+
+Asegurar que el diseño sea responsivo y accesible desde diferentes dispositivos()opcional .
+
+3. Documentación(incluida dentro de GitHub Pages):
+
+Crear un documento detallado que incluya:
+
+Casos de uso del brazo robótico.
+
+Historias de usuario.
+
+Requerimientos del sistema separados por asignaturas.
+Programación Orientada a Objetos
+
+Emprendimiento e Innovación Tecnológica
+
+Análisis Matemático
+
+Diseño de Circuitos
+
+Teoría de la Distribución y Probabilidad 
+<div align="center">
+Diagrama de Clases
+<br>
+<p><img src="https://raw.githubusercontent.com/145548109/RecursosPIS2/main/UML_1.0/Diagrama_UML_1.0.png?token=GHSAT0AAAAAACSRZACWCUJS2DIGPUOGVZWOZTB2IZQ"></p>
+
