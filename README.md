@@ -51,7 +51,7 @@ Teoría de la distribución y la probabilidad: Calcular la media de objetos reco
 </details>
 
 
-///
+
 HISTORIA DE USO.
 ```
 Como estudiantes de la UNL desarrollaremos esta segunda version del brazo robotico para aportar a la sostenibilidad en la sociedad.
@@ -61,6 +61,6 @@ Comprendimos como podria aportar a la sociedad lojana y cómo se siente.
 Queremos aportar a la sostenibilidad del medio ambiente con una segunda versión de nuestro brazo robotico.
 Nuestras intenciones son mejorar el funcionamiento del mismo, facilitando el control del mismo, a quien lo maneje.
 ```
-//
+
 
 
